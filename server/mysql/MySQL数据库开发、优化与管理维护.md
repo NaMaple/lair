@@ -1,7 +1,7 @@
 [MySQL 5.7参考手册/第十一章数据类型](http://www.searchdoc.cn/rdbms/mysql/dev.mysql.com/doc/refman/5.7/en/data-types.com.coder114.cn.html)
 <p>数值类型
 <p>数字类型
-<p>整数：tinyint、smallint、mediumint、int、bigint
+<p>整数类型：tinyint、smallint、mediumint、int、bigint
 
 | 类型 | 字节  | 范围(有符号) | 范围(无符号) | 
 | :---: | :---: | :---: | :---: |
@@ -36,3 +36,4 @@ CREATE TABLE `M` (
 
 ZEROFILL属性，补零，(6)，127，000127。
 
+<p>定点类型：decimal、numeric
