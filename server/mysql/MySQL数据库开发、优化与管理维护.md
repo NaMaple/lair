@@ -40,6 +40,8 @@ ZEROFILL属性，补零，(6)，127，000127。
 decimal和numeric类似
 
 ```
-salary DECIMAL(5,2)
+salary decimal(5,2)
 ```
+
+
 
