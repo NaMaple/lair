@@ -37,3 +37,9 @@ CREATE TABLE `M` (
 ZEROFILL属性，补零，(6)，127，000127。
 
 <p>定点类型：decimal、numeric
+decimal和numeric类似
+
+```
+salary DECIMAL(5,2)
+```
+
